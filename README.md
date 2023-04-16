@@ -1,2 +1,2 @@
 # Time-Series-Forecasting
-Forecasting Items Sold Using Basic, Machine and Deep Learning
+Forecasting Items Sold Using Basic Time Series Model, ANN and Prophet
