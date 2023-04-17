@@ -8,3 +8,5 @@ Data field description:
 - week_end_date: contained information about week end date of specific product sold.
 - product_item: contained information about product item/product code.
 - quantity: contained information about quantity of product in respective week.
+
+Timeseries dashboard link: https://public.tableau.com/app/profile/andrian5182/viz/ForecastingDashboard_16816171182120/Dashboard1?publish=yes
