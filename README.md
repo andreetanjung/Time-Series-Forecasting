@@ -36,6 +36,9 @@ ARIMA model shows the best minimum error in forecast, for that reason we will us
 - From the beginning of 2022 until August, there was an upward trend in items sold followed by a downward trend thereafter.
 - A recurring pattern observed in the data is the consistent increase in items sold followed by a decrease, which happens every month.
 - Out of the several models tested on the dataset, the best performing model is ARIMA, with an average error of 2% in the forecast. Therefore, the model is deemed suitable for deployment as long as the data is assumed stationary.
+
+![image](https://github.com/andreetanjung/Time-Series-Forecasting/assets/123824152/0e4885ba-42fb-415a-a925-3f1fa66c0f86)
+
 ### Future References
 Possible improvements to the model include:
     - Utilizing the BIC (Bayesian information criterion) technique to determine the parameters that could potentially lead to a better model.
