@@ -1,4 +1,4 @@
-# Time-Series-Forecasting
+# Time-Series Forecasting with Many Models
 ### Project Overview
 In this notebook, we will attempt to predict the quantity of products sold by a company from January 2022 to March 2023. We will compare several models, including basic time series models like ARIMA, SARIMA, and Exponential Smoothing, as well as an ANN model and the Prophet algorithm. The objective of this notebook is to determine the most accurate model and use it to predict the quantity of items sold for several weeks in advance
 ### Data
